@@ -11,7 +11,7 @@ Secondly, I have made much improvements to previous codes, include
 - Use config.py to manage config parameters unifiedly. 
 - Update the version of keras, such as updating some methods and their parameters. If not update, this codes will not run sucessfully on new version of keras.
 - Replace ZeroPadding and Scale operations with Convolution in padding mode 'same'. I think it will make codes leaner.
-- By the way, i have corrected some basic structural errors in original model, which exploded my memory at the beginning.
+- By the way, i have corrected some basic structural errors in original model, which exploded memory at the beginning.
 - I have removed the support for theano from original model because these is experimental codes. I just use it to do control experiments of classification tasks, hence, no consideration is given to compatibility. Very sorry.    
 
 Anyway, for conclusion, the main idea for uploading these codes is to provide ready-made codes for researchers who need to do control experiments. It will help you to achieve results you want quickly. Meanwhile, if you are a beginner of deep learning, you also can start your learning journey from these simplified codes. All network structures are the same as the original paper.

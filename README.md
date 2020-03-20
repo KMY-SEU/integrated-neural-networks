@@ -20,10 +20,10 @@ Welcome to discuss.
 
 
 # Configuration
-python == 3.7 
-keras == 2.3.1
-tensorflow == 1.14.0
-opencv-python == 4.1.0.25
+python == 3.7<br>
+keras == 2.3.1<br>
+tensorflow == 1.14.0<br>
+opencv-python == 4.1.0.25<br>
 numpy == 1.17.1
 
 

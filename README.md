@@ -4,7 +4,7 @@ e-mail  : kangmingyu.china@gmail.com
 
 
 # Introduction
-It's essential to declare at first, it's an integrated neural netwok framework based on keras, whose backend is tensorflow. And, all these codes are originally collected from other authors in the github, such as tslgithub, titu1994 and flyyufelix. However, i have modified these codes about 40%-50%. Just in case, if you are one of the creators of these source code and you mind it, you can contact me, and i will delete them.  
+It's essential to declare at the beginning, it's an integrated neural netwok framework based on keras, whose backend is tensorflow. And, all these codes are originally collected from other authors in the github, such as tslgithub, titu1994 and flyyufelix. However, i have modified these codes about 40%-50%. Just in case, if you are one of the creators of these source code and you mind it, you can contact me, and i will delete them.  
 
 Secondly, I have made much improvements to previous codes, include
 - Use centralied train function to implement data reading and model training.
